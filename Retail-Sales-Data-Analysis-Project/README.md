@@ -49,7 +49,7 @@ This project focuses on analysing retail sales data using Excel, SQL, and Power 
 
 ## Dashboard
 
-![Retail Sales Dashboard]("C:\Users\Avnish\OneDrive\Desktop\Retail-Sales-Data-Analysis-Project\image\Retail-Sales-Data-Analysis-Dashboard.png.png")
+https://github.com/avnish530/Retail--Sales-Data-Analysis-Dashboard/blob/main/Retail-Sales-Data-Analysis-Project/image/Retail-Sales-Data-Analysis-Dashboard.png.png?raw=true
 
 ## Project Structure
 
